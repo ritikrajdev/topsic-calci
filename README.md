@@ -3,7 +3,9 @@
 Topsis Calci is a Python package implementing Topsis method for decision analysis.
 
 ## Installation
-$ pip install topsis-calci
+```
+pip install topsis-calci
+```
 
 ## Usage
 ```
