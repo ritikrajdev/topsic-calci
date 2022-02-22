@@ -1,8 +1,14 @@
 [tool.poetry]
 name = "topsis_calci"
-version = "0.1.0"
+version = "0.2.1"
 description = ""
+readme = "README.md"
+homepage = "https://github.com/ritikrajdev/topsic-calci"
+repository = "https://github.com/ritikrajdev/topsic-calci"
 authors = ["ritikrajdev <ritikrajdev761@gmail.com>"]
+include =  [
+	"LICENSE"
+]
 
 [tool.poetry.dependencies]
 python = "^3.10"

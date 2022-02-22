@@ -28,7 +28,7 @@ python topsis.py input_file weights impacts output_file
 * Creates a csv file on "output_file" path containing score and Ranks
 
 #### Examples :-
-Refer (Examples)[./examples]
+Refer [Examples](./examples)
 
 ## License
 This Project is Licensed under [**BSD-4-Clause**](./LICENSE.txt)
