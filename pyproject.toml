@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "topsis_calci"
-version = "0.2.1"
+version = "0.4"
 description = ""
 readme = "README.md"
 homepage = "https://github.com/ritikrajdev/topsic-calci"
@@ -24,4 +24,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-topsis = "topsis:cli"
+topsis = "topsis_calci.cli:cli"
